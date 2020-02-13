@@ -26,7 +26,7 @@ function changeScene(event){
     startGame(nbAChercherMaximal,nbEssaiesRestants)
 }
 
-function startGame(nbAChercherMaximal, nbEssaiesRestants){
+function startGame(nbAChercherMaximal, nbEssaiesRestants) {
     
     // Programme
     var texteTitle = "Que la partie commence !"
